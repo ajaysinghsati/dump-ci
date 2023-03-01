@@ -5,7 +5,7 @@ env:
   
   # Gitlab
   PUSH_TO_GITLAB: true
-  GITLAB_GROUP: Rom-dump
+  GITLAB_GROUP: ajaysinghsati
   GITLAB_TOKEN: ENCRYPTED[!7bbe4854e052c415bd85600d5633123493eb1f083503f43935f7f68dcafc63e9d43a3c126d334c79fc9aa8a7a854d83a!]
 
   # Private SSH Key
